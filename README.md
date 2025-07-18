@@ -1,4 +1,14 @@
-# Hi there 👋
+# 👀 Welcome👋
+<p align="left">
+  <img src="https://media1.tenor.com/m/EsOLJiY4cmYAAAAC/go-t-game-of-thrones.gif"/>
+</p>
+
+## About me
+- I'm an Informatics and Computer Engineering undergraduate in my 5th year.
+- My interests are Software Development and Engineering, so far.
+- I speak fluently English, Greek and Arabic.
+- Currently working on java Projects.
+- Feel free To contact me: +30 6940653817
 
 <!--
 **PetrosIbrah/PetrosIbrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
