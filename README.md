@@ -4,11 +4,11 @@
 </p>
 
 ## About me
-- I'm an Informatics and Computer Engineering undergraduate in my 5th year.
-- My interests are Software Development and Engineering, so far.
-- I speak fluently English, Greek and Arabic.
-- Currently working on java Projects.
-- Feel free To contact me: +30 6940653817
+- 🎓 I'm an Informatics and Computer Engineering undergraduate (5th year).
+- 🔥 Passionate about **Software Development and Engineering**.
+- 🗣️ I speak fluently **English**, **Greek** and **Arabic**.
+- ☕ Currently working on **Java Projects**.
+- 📱 Feel free To contact me: **+30 6940653817**
 
 <!--
 **PetrosIbrah/PetrosIbrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
