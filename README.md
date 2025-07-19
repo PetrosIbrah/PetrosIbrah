@@ -14,4 +14,5 @@ under construction
 ## Skillset
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrosIbrah&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![petrosibrah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petrosibrah&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
