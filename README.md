@@ -12,3 +12,6 @@ under construction
 - 📱 Feel free To contact me: **+30 6940653817**
 
 ## Skillset
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrosIbrah&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
