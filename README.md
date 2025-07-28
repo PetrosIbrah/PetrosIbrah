@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/EsOLJiY4cmYAAAAC/go-t-game-of-thrones.gif"/>
+  
 </p>
 
 ## About me
