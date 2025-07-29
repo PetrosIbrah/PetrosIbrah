@@ -34,5 +34,5 @@
   </div>
 </p>
 
-## Stats
+### Stats
 ![PetrosIbrah's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrosIbrah&count_private=true&theme=radical)
